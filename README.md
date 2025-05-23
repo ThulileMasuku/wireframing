@@ -1,4 +1,4 @@
-## Types of Wireframe
+## "Types of Wireframe"
 Wireframes are essential tools in the user experience (UX) design process, used to visualize the skeletal structure of a digital product. There are two main types of wireframes: **low-fidelity** and **high-fidelity**, each serving different purposes at various stages of design.
 ### What is a Wireframe?
 A wireframe is a simplified visual guide that represents the framework of a website or application interface. It outlines content placement, navigation, and the overall layout without focusing on design details like colors, images, or interactive elements. Wireframes help designers, developers, and stakeholders align early in the project by offering a clear, structured overview of the intended user experience.
