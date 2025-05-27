@@ -127,7 +127,7 @@ The wireframe used in this project is a **[Low-Fidelity / High-Fidelity]** wiref
 It was chosen because it allows us to **[explain why – e.g., iterate quickly, show early-stage concepts, communicate exact design, etc.]**.
 
 **Tools Used:**  
-- [Mention any tools used like Balsamiq, Figma, pen and paper, etc.]
+- [Balsamiq, Figma, pen and paper, etc.]
 
 ---
 ---
